@@ -1,0 +1,15 @@
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\bin\Debug\net8.0\CustomizedException.exe
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\bin\Debug\net8.0\CustomizedException.deps.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\bin\Debug\net8.0\CustomizedException.runtimeconfig.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\bin\Debug\net8.0\CustomizedException.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\bin\Debug\net8.0\CustomizedException.pdb
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.AssemblyInfoInputs.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.AssemblyInfo.cs
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.csproj.CoreCompileInputs.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.sourcelink.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\refint\CustomizedException.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.pdb
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\CustomizedException.genruntimeconfig.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\CustomizedException\obj\Debug\net8.0\ref\CustomizedException.dll
