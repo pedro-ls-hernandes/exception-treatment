@@ -10,4 +10,14 @@ using System;
         InvalidCastException();
         FileNotFoundException();
 */
+try
+{
+    A.ProcessarA();
+}
+catch
+{
+    Console.WriteLine("Tratamento da exceção no main");
+}
 
+A.ProcessarA();
+B.ProcessarB();

@@ -11,13 +11,21 @@ namespace Throw
         public static void ProcessarA()
         {
             B.ProcessarB();
-        }
+}
     }
     public class B
     {
         public static void ProcessarB()
         {
-            C.ProcessarC();
+            try
+            {
+                C.ProcessarC();
+            }
+            catch
+            {
+                throw;
+            }
+            
         }
     }
     public class C
