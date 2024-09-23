@@ -1,0 +1,15 @@
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.AssemblyInfoInputs.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.AssemblyInfo.cs
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.csproj.CoreCompileInputs.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.sourcelink.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\bin\Debug\net8.0\ExemploException.exe
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\bin\Debug\net8.0\ExemploException.deps.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\bin\Debug\net8.0\ExemploException.runtimeconfig.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\bin\Debug\net8.0\ExemploException.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\bin\Debug\net8.0\ExemploException.pdb
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\refint\ExemploException.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.pdb
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ExemploException.genruntimeconfig.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\ExemploException\obj\Debug\net8.0\ref\ExemploException.dll
