@@ -1,0 +1,14 @@
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\bin\Debug\net8.0\Exception.exe
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\bin\Debug\net8.0\Exception.deps.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\bin\Debug\net8.0\Exception.runtimeconfig.json
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\bin\Debug\net8.0\Exception.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\bin\Debug\net8.0\Exception.pdb
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\refint\Exception.dll
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.pdb
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+C:\Users\0201392321025\source\repos\Exception-Treatment\Exception\obj\Debug\net8.0\ref\Exception.dll
